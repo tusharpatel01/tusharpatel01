@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi there, I'm <a href="https://github.com/yourusername">Your Name</a> 👋</h1>
+<!--<h1 align="center">Hi there, I'm <a href="https://github.com/yourusername">Your Name</a> 👋</h1>-->
 
 <p align="center">
   <a href="https://github.com/yourusername"><img src="https://img.shields.io/github/followers/yourusername?label=Followers&style=social"></a>
