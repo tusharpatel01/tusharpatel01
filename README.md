@@ -13,13 +13,13 @@
 
 <p align="center">
   <a href="https://github.com/tusharpatel01">
-    <img width="39%" src="https://github-readme-stats.vercel.app/api?username=tusharpatel01&show_icons=true&theme=tokyonight&hide_border=true" />
+    <img width="45%" src="https://github-readme-stats.vercel.app/api?username=tusharpatel01&show_icons=true&theme=tokyonight&hide_border=true" />
   </a>
   <a href="https://github.com/tusharpatel01">
-    <img width="39%" src="https://github-readme-streak-stats.herokuapp.com/?user=tusharpatel01&theme=tokyonight&hide_border=true" />
+    <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=tusharpatel01&theme=tokyonight&hide_border=true" />
   </a>
   <a href="https://github.com/tusharpatel01">
-    <img width="39%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tusharpatel01&layout=compact&theme=tokyonight&hide_border=true" />
+    <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tusharpatel01&layout=compact&theme=tokyonight&hide_border=true" />
   </a>
 </p>
 
