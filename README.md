@@ -24,6 +24,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about **Frontend Development, React, and Node.js**
 - 📫 Reach me at: **tusharpatelll1908@gmail.com**
 - ⚡ Fun fact: I love coding with chai !!
+- 👯 I’m looking to collaborate on Projects
 
 ---
 
