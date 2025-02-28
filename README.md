@@ -9,19 +9,26 @@
 
 ---
 
-### 📈 GitHub Stats:
+## 🚀 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tusharpatel01&show_icons=true&theme=radical" alt="GitHub Stats" />
- 
+  <a href="https://github.com/tusharpatel01">
+    <img width="39%" src="https://github-readme-stats.vercel.app/api?username=tusharpatel01&show_icons=true&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/tusharpatel01">
+    <img width="39%" src="https://github-readme-streak-stats.herokuapp.com/?user=tusharpatel01&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/tusharpatel01">
+    <img width="39%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tusharpatel01&layout=compact&theme=tokyonight&hide_border=true" />
+  </a>
 </p>
 
-### 🚀 Top Languages:
+### 🎯 Follow Me: 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tusharpatel01&layout=compact&theme=radical" alt="Top Languages" />
+  <a href="https://www.linkedin.com/in/tushar-patel-221772266/" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="Follow me on LinkedIn" width="50" />
+</a>
 </p>
 
-### 🎯 Follow Me:
-<p align="center">
-  <a href="[linkedin.com/in/tushar-patel-221772266](https://www.linkedin.com/in/tushar-patel-221772266/)"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-</p>
+
 
