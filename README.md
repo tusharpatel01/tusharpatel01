@@ -44,6 +44,6 @@ Here are some ideas to get you started:
 
 ### 🎯 Follow Me:
 <p align="center">
-  <a href="linkedin.com/in/tushar-patel-221772266"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="[linkedin.com/in/tushar-patel-221772266](https://www.linkedin.com/in/tushar-patel-221772266/)"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
 
